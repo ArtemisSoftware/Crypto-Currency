@@ -1,4 +1,4 @@
-package com.artemissoftware.cryptocurrency.domain.usecase.getcoins
+package com.artemissoftware.cryptocurrency.domain.usecase.getcoin
 
 import com.artemissoftware.cryptocurrency.common.Resource
 import com.artemissoftware.cryptocurrency.data.remote.dto.toCoinDetail
