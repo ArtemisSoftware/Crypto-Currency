@@ -1,4 +1,4 @@
-package com.artemissoftware.cryptocurrency.ui.theme
+package com.artemissoftware.cryptocurrency.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
