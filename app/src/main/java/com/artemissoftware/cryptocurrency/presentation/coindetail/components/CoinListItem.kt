@@ -16,9 +16,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.artemissoftware.cryptocurrency.Greeting
 import com.artemissoftware.cryptocurrency.domain.model.Coin
-import com.artemissoftware.cryptocurrency.presentation.ui.theme.CryptoCurrencyTheme
 
 @Composable
 fun CoinListItem(
